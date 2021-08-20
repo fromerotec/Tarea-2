@@ -36,7 +36,7 @@ El programa va a preguntar por:
 Añade el código necesario para que el programa imprima:
 - **Trámite de licencia concedido** si la edad es mayor o igual a 18 y tiene identificación oficial
 - **No cumples requisitos** si no cumple con los requisitos para la licencia
-- Si la edad es negativa o el usuario ingresó cualquier otro caracter que no sea s o n cuando pides la identificación, debe mostrar el mensaje **Respuesta incorrecta**
+- Si la edad es cero o es negativa, o el usuario ingresó cualquier otro caracter que no sea s o n cuando pides la identificación, debe mostrar el mensaje **Respuesta incorrecta**
 
 La salida del programa debe de ser exactamente de la siguiente forma:
 
